@@ -1,4 +1,4 @@
-# 디자인하우스(designhouse)
+# 디자인하우스(DesignHouse)
 
 <a href="https://wess.tistory.com/275" target="_blank">
     <img src="https://webfontworld.github.io/designhouse/DesignHouse.jpg" alt="DesignHouse" style="width:300px">
